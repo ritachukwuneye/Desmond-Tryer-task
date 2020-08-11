@@ -1,0 +1,45 @@
+/* .head{
+    display: grid;
+    grid-auto-rows: auto;
+    /* grid-template-columns: 2fr 2fr; 
+    background-color: blue;
+    
+}*/
+
+body{
+    background-color: lightgrey;   
+}
+.header{
+    padding: 1%;
+    background-color: rgb(0, 38, 255);
+}
+.face{
+    color: white;
+    font-size: xx-large;
+}
+.input{
+    margin: 61% ;
+    color: white;
+}
+.inputp{
+    margin: 7%;
+    color: white;
+
+}
+.login{
+    float: right;
+    background-color: cornflowerblue;
+    color: white;
+} 
+.forget{
+    margin: 83%;
+}
+  .button1{
+      margin-inline-start:68% ;
+  } 
+   .new{
+      margin-left: 68%;
+  } 
+.container{
+    margin-top: 0%;
+}
